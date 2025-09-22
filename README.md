@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi I'm Kaisaan!
+
+I am a Computer Science student that is interested in **Reverse Engineering** for (unofficial) **Game Localization** by using **Ghidra** (and some IDA Pro), **Assembly hacks** (Z80, MIPS, ARM), and **Python scripts**.  
+Feel free to [**contact me**](https://kaisaan.github.io/pages/contact)
+
+# I Have Completed...
+- [*Digital Devil Story: Megami Tensei* (MSX) Translation](https://github.com/Kaisaan/DDS-Translation)
+
+# I Am Working On...
+- [*Ys V: Lost Kefin - Kingdom of Sand* (PS2) Translation](https://github.com/Kaisaan/lostkefin)
+- [My Website](https://kaisaan.github.io/) (forever a Work In Progress!)
+
+# I Will Work On...
+- [Many more translation projects!](https://github.com/Kaisaan/projects)
+
 
 <!--
 **Kaisaan/kaisaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
