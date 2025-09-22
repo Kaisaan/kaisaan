@@ -1,7 +1,8 @@
 ## Hi I'm Kaisaan!
 
 I am a Computer Science student that is interested in **Reverse Engineering** for (unofficial) **Game Localization** by using **Ghidra** (and some IDA Pro), **Assembly hacks** (Z80, MIPS, ARM), and **Python scripts**.  
-Feel free to [**contact me**](https://kaisaan.github.io/pages/contact)
+Feel free to [**contact me**](https://kaisaan.github.io/pages/contact)  
+If you like my work feel free to [**donate to me!**](https://ko-fi.com/kaisaan)
 
 # I Have Completed...
 - [*Digital Devil Story: Megami Tensei* (MSX) Translation](https://github.com/Kaisaan/DDS-Translation)
