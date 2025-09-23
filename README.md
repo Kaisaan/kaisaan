@@ -13,6 +13,7 @@ If you like my work feel free to [**donate to me!**](https://ko-fi.com/kaisaan)
 
 ### I Am Working On...
 - [*Ys V: Lost Kefin - Kingdom of Sand* (PS2) Translation](https://github.com/Kaisaan/lostkefin)
+- [*Dinosaur Resurrection* (Win) Translation](https://geofront.esterior.net/titles/dinosaur-resurrection/) with the [Geofront localization group!](https://geofront.esterior.net/)
 - [My Website](https://kaisaan.github.io/) (forever a Work In Progress!)
 
 #### I Will Work On...
