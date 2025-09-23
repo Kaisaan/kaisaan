@@ -7,11 +7,15 @@ If you like my work feel free to [**donate to me!**](https://ko-fi.com/kaisaan)
 ### I Have Completed...
 - [*Digital Devil Story: Megami Tensei* (MSX) Translation](https://github.com/Kaisaan/DDS-Translation)
 
+#### I Helped Complete...
+- [*Persona: Anomalous Tower Chronicles* (PC) Translation](https://github.com/MKCAMK/G-MODE-Archives-translations/tree/main?tab=readme-ov-file#persona-anomalous-tower-chronicle--%E5%A5%B3%E7%A5%9E%E7%95%B0%E8%81%9E%E9%8C%B2%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A-%E7%95%B0%E7%A9%BA%E3%81%AE%E5%A1%94%E7%B7%A8) as Project Originator
+- [*Erst Kerf* (Win) Translation](https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch) as Programmer, File Researcher, and Cheat Developer
+
 ### I Am Working On...
 - [*Ys V: Lost Kefin - Kingdom of Sand* (PS2) Translation](https://github.com/Kaisaan/lostkefin)
 - [My Website](https://kaisaan.github.io/) (forever a Work In Progress!)
 
-### I Will Work On...
+#### I Will Work On...
 - [Many more translation projects!](https://github.com/Kaisaan/projects)
 
 
