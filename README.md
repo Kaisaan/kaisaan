@@ -1,4 +1,4 @@
-## Hi I'm Kaisaan! (22, he/him)
+## Hi I'm Kaisaan! (23, he/him)
 
 I'm a Computer Science student that is interested in **Reverse Engineering** for (usually unofficial) **Game Localization** by using **Ghidra** (and some IDA Pro), **Assembly hacks** (Z80, MIPS, ARM), and **Python scripts**.  
 Feel free to [**contact me**](https://kaisaan.github.io/pages/contact)  
