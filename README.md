@@ -5,9 +5,9 @@ Feel free to [**contact me**](https://kaisaan.github.io/pages/contact)
 If you like my work feel free to [**donate to me!**](https://ko-fi.com/kaisaan)
 
 ### I Have Worked on...
-- [*Ys III - Wanderers from Ys (PS2) Translation*](https://github.com/Kaisaan/wanderers), my current project
-- [*Ys IV - Mask of the Sun, A New Theory*](https://github.com/Kaisaan/newtheory), my next main project
-- [*Ys V: Lost Kefin - Kingdom of Sand* (PS2) Translation](https://github.com/Kaisaan/lostkefin), my biggest completed project
+- [*Ys IV - Mask of the Sun, A New Theory*](https://github.com/Kaisaan/newtheory), my current project!
+- [*Ys III - Wanderers from Ys (PS2) Translation*](https://github.com/Kaisaan/wanderers), my second largest completed project!
+- [*Ys V: Lost Kefin - Kingdom of Sand* (PS2) Translation](https://github.com/Kaisaan/lostkefin), my largest completed project!
 - [*Dinosaur Resurrection* (Win) Translation](https://geofront.esterior.net/titles/dinosaur-resurrection/) with the [Geofront localization group!](https://geofront.esterior.net/)
 - [*Erst Kerf* (Win) Translation](https://github.com/Etokapa/Erst-Kerf-English-Translation-Patch) as Programmer, File Researcher, and Cheat Developer
 - [*Digital Devil Story: Megami Tensei* (MSX) Translation](https://github.com/Kaisaan/DDS-Translation), my first completed translation project!
